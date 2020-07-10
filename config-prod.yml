@@ -1,0 +1,6 @@
+config:
+  info: "config-prod.yml,version=2"
+name:
+  wyg
+age:
+  30
