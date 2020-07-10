@@ -1,2 +1,6 @@
 config:
   info: "config-dev.yml,version=1"
+name:
+  wyg
+age:
+  30
