@@ -1,0 +1,6 @@
+config:
+  info: "config-test.yml,version=33"
+name:
+  wyg
+age:
+  30
