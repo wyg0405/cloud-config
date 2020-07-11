@@ -1,5 +1,5 @@
 config:
-  info: "config-dev.yml,version=2"
+  info: "config-dev.yml,version=3"
 name:
   wyg
 age:
